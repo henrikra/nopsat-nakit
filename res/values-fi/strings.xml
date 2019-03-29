@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Nopsat Nakit</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start_button">Aloita</string>
+    <string name="stop_button">Keskeytä</string>
+    <string name="speed_tv">Nopeus</string>
+    <string name="score_tv">PARAS TULOS:</string>
+    <string name="ms_tv">ms</string>
+    <string name="game_over1">Peli ohi! Sait</string>
+    <string name="game_over2">pistettä</string>
+    
+</resources>
